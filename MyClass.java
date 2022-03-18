@@ -10,9 +10,6 @@ class MyClass {
     if(num1>num2){
 		System.out.println("Greater Number is " + num1);	
     }
-    else if(num1==num2){
-		System.out.println("Number are equal");
-    }
     else{
 		System.out.println("Greater Number is " + num2);
     }
