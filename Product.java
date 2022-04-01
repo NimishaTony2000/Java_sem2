@@ -36,7 +36,7 @@ public class Product {
         Product p2 = new Product();
         b = p2.l_price();
         Product p3 = new Product();
-        b = p3.l_price();
+        c = p3.l_price();
         if(a<b)
         {
             if(a<c)
@@ -52,11 +52,11 @@ public class Product {
         {
             if(b<c)
             {
-                System.out.println("Lowest Price is:"+b);
+                System.out.println("Lowest Price is:"+c);
             }
             else
             {
-                System.out.println("Lowest Price is:"+c);
+                System.out.println("Lowest Price is:"+b);
             }
         }
     }
