@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package pkg21mca033.CO1;
+package nimisha.tony;
 
 import java.util.Scanner;
 
 /**
  *
- * @author sjcet
+ * @author Nimisha
  */
 public class Metrix {
     public static void main(String args[])

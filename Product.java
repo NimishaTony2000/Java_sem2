@@ -1,15 +1,14 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package pkg21mca033.CO1;
+package nimisha.tony;
 
 import java.util.Scanner;
 
 /**
  *
- * @author sjcet
+ * @author Nimisha
  */
 public class Product {
     int p_code;
@@ -59,5 +58,5 @@ public class Product {
                 System.out.println("Lowest Price is:"+b);
             }
         }
-    }
+    }   
 }
