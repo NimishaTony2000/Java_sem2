@@ -1,0 +1,9 @@
+1.Program to draw Circle, Rectangle, Line in Applet. 
+2.Program to find a maximum of three numbers using AWT.
+3.Find the percentage of marks obtained by a student in 5 subjects. Display a happy face if he secures above 50% or a sad face if otherwise. 
+4.Using 2D graphics commands in an Applet, construct a house. On mouse click event, change the color of the door from blue to red.      
+5.Implement a simple calculator using AWT components.
+6.Develop a program that has a Choice component which contains the names of shapes such as rectangle, triangle, square and circle. Draw the corresponding shapes for given parameters as per user’s choice. 
+7.Develop  a program to handle all mouse events and window events.
+8.Develop a program to handle Key events.
+9.
